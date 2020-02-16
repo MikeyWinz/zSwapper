@@ -11,7 +11,7 @@
           "date": "2020-02-13",
           "sha512sum": "95ced688ca71b3eafd9d952f387fddf3757f096c78d471928672a5665eefafeea3f3f5bf2a237060c0508bbbad24e91ede8a871e511ce4619da46e965847b7d7",
           "version": "0.0.1",
-          "url": "https://github.com/MikeyWinz/zSwapper/blob/master/release/ZulrahSwapper-1.0.0.jar?raw=true",
+          "url": "https://github.com/MikeyWinz/zSwapper/blob/master/release/ZulrahSwapper-0.0.1.jar?raw=true",
           "requires": "0.0.1"
         }
       ]
