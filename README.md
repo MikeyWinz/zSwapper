@@ -1,2 +1,0 @@
-# zSwapper
- custom plugin

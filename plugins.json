@@ -1,0 +1,18 @@
+
+[
+    {
+      "projectUrl": "https://discord.gg/jm86Yd",
+      "provider": "Mike",
+      "name": "zSwapper",
+      "description": "nil",
+      "id": "zSwapper-plugin",
+      "releases": [
+        {
+          "date": "2020-02-13",
+          "sha512sum": "53c87f8e6bbcf209868712be1f57ab10e11272c989bbd78b563bcb175f86f83477040244230ff2b21ac9956e8259487e88ce1b4cdbc431c23a001bbf8d9a5760",
+          "version": "1.0.0",
+          "url": "",
+          "requires": "0.0.1"
+        }
+      ]
+    }
