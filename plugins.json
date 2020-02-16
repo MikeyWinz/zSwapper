@@ -4,7 +4,7 @@
       "projectUrl": "https://discord.gg/jm86Yd",
       "provider": "Mike",
       "name": "zSwapper",
-      "description": "nil",
+      "description": "Automatically swaps prayers and gear at Zulrah",
       "id": "zSwapper-plugin",
       "releases": [
         {
